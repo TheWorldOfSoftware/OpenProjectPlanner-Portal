@@ -1,5 +1,5 @@
 {
-  "name": "openprojectplanner-portal",
+  "name": "@opensoftware/openprojectplanner-portal",
   "version": "1.0.0",
   "description": "The OpenProjectPlanner public management portal.",
   "keywords": [
@@ -20,6 +20,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com/OpenSoftwareCorp/OpenProjectPlanner-Portal.git"
   },
+  "type": "module",
   "files": [
     ""
   ],
