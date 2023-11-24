@@ -1,11 +1,10 @@
 {
-  "name": "@opensoftware/openprojectplanner-portal",
+  "name": "@worldofsoftware/openprojectplanner-portal",
   "version": "1.0.0",
   "description": "The OpenProjectPlanner public management portal.",
   "keywords": [
-    "OpenSoftware",
-    "OpenSoftwareCorp",
-    "OSC",
+    "WorldOfSoftware",
+    "WOS",
     "open source",
     "global operations",
     "OpenProjectPlanner",
@@ -18,7 +17,7 @@
   "homepage": "",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/OpenSoftwareCorp/OpenProjectPlanner-Portal.git"
+    "url": "git+ssh://git@github.com/TheWorldOfSoftware/OpenProjectPlanner-Portal.git"
   },
   "type": "module",
   "files": [
